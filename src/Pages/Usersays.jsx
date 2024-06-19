@@ -6,25 +6,25 @@ const testimonials = [
     name: 'John Doe',
     position: 'Fantasy Sports Enthusiast',
     image: 'https://via.placeholder.com/100',
-    quote: 'YUVI11 has completely changed the way I enjoy sports. The thrill of competition and strategy is unmatched!',
+    quote: 'KHOLI11 has completely changed the way I enjoy sports. The thrill of competition and strategy is unmatched!',
   },
   {
     name: 'Jane Smith',
     position: 'Professional Gamer',
     image: 'https://via.placeholder.com/100',
-    quote: 'The user-friendly interface and variety of sports make YUVI11 my go-to app for fantasy sports.',
+    quote: 'The user-friendly interface and variety of sports make KHOLI11 my go-to app for fantasy sports.',
   },
   {
     name: 'Carlos Ramirez',
     position: 'Casual Player',
     image: 'https://via.placeholder.com/100',
-    quote: 'I love how easy it is to get started with YUVI11. The community and the game itself are fantastic!',
+    quote: 'I love how easy it is to get started with KHOLI11. The community and the game itself are fantastic!',
   },
   {
     name: 'Emily Chen',
     position: 'Sports Analyst',
     image: 'https://via.placeholder.com/100',
-    quote: 'YUVI11 offers a perfect blend of sports excitement and strategic gameplay. I can\'t get enough!',
+    quote: 'KHOLI11 offers a perfect blend of sports excitement and strategic gameplay. I can\'t get enough!',
   },
 ];
 
